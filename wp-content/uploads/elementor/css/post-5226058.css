@@ -1,0 +1,41 @@
+.elementor-widget-container .pafe-woocommerce-sales-funnels-add-to-cart-message--success{color:var( --e-global-color-primary );}.elementor-widget-container .pafe-woocommerce-sales-funnels-add-to-cart-message--out-of-stock{color:var( --e-global-color-primary );}.elementor-widget-container .pafe-woocommerce-sales-funnels-add-to-cart-message{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-5226058 .elementor-element.elementor-element-78a89c0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-end;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-image .pafe-woocommerce-sales-funnels-add-to-cart-message--success{color:var( --e-global-color-primary );}.elementor-widget-image .pafe-woocommerce-sales-funnels-add-to-cart-message--out-of-stock{color:var( --e-global-color-primary );}.elementor-widget-image .pafe-woocommerce-sales-funnels-add-to-cart-message{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-5226058 .elementor-element.elementor-element-efb721a img{width:100%;}.elementor-5226058 .elementor-element.elementor-element-bad2ece img{width:100%;}.elementor-5226058 .elementor-element.elementor-element-1c3d6a2 img{width:100%;}.elementor-5226058 .elementor-element.elementor-element-f1482cc img{width:100%;}.elementor-5226058 .elementor-element.elementor-element-5551d93{--display:flex;--position:absolute;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-end;--gap:30px 30px;--row-gap:30px;--column-gap:30px;--margin-top:40px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;top:0px;}.elementor-5226058 .elementor-element.elementor-element-5551d93.e-con{--align-self:flex-start;}body:not(.rtl) .elementor-5226058 .elementor-element.elementor-element-5551d93{left:0px;}body.rtl .elementor-5226058 .elementor-element.elementor-element-5551d93{right:0px;}.elementor-widget-heading .pafe-woocommerce-sales-funnels-add-to-cart-message--success{color:var( --e-global-color-primary );}.elementor-widget-heading .pafe-woocommerce-sales-funnels-add-to-cart-message--out-of-stock{color:var( --e-global-color-primary );}.elementor-widget-heading .pafe-woocommerce-sales-funnels-add-to-cart-message{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-5226058 .elementor-element.elementor-element-e25e90a{width:auto;max-width:auto;}.elementor-5226058 .elementor-element.elementor-element-e25e90a .elementor-heading-title{font-family:"Tank", Sans-serif;font-size:44px;font-weight:600;text-transform:uppercase;color:#F68E57;}.elementor-5226058 .elementor-element.elementor-element-547b84a{width:auto;max-width:auto;}.elementor-5226058 .elementor-element.elementor-element-547b84a .elementor-heading-title{font-family:"Tank", Sans-serif;font-size:38px;font-weight:600;text-transform:uppercase;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-5226058 .elementor-element.elementor-element-5551d93{--content-width:990px;}}@media(max-width:1440px){.elementor-5226058 .elementor-element.elementor-element-5551d93{--margin-top:80px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}}@media(max-width:1024px){.elementor-5226058 .elementor-element.elementor-element-e25e90a .elementor-heading-title{font-size:30px;}.elementor-5226058 .elementor-element.elementor-element-547b84a .elementor-heading-title{font-size:24px;}}@media(max-width:767px){.elementor-5226058 .elementor-element.elementor-element-5551d93{--justify-content:flex-start;--align-items:flex-end;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:15px 15px;--row-gap:15px;--column-gap:15px;--margin-top:10%;--margin-bottom:0%;--margin-left:0%;--margin-right:0%;--padding-top:0%;--padding-bottom:0%;--padding-left:10%;--padding-right:10%;}.elementor-5226058 .elementor-element.elementor-element-e25e90a .elementor-heading-title{font-size:24px;}.elementor-5226058 .elementor-element.elementor-element-547b84a .elementor-heading-title{font-size:18px;}}/* Start custom CSS for image, class: .elementor-element-efb721a */.elementor-5226058 .elementor-element.elementor-element-efb721a{
+    min-height: calc(100vh - 102px);
+    overflow: hidden;
+}
+.elementor-5226058 .elementor-element.elementor-element-efb721a img{
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+}/* End custom CSS */
+
+/* Start custom CSS for image, class: .elementor-element-bad2ece */.elementor-5226058 .elementor-element.elementor-element-bad2ece{
+    min-height: calc(100vh - 102px);
+    overflow: hidden;
+}
+.elementor-5226058 .elementor-element.elementor-element-bad2ece img{
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+}/* End custom CSS */
+
+/* Start custom CSS for image, class: .elementor-element-1c3d6a2 */.elementor-5226058 .elementor-element.elementor-element-1c3d6a2{
+    min-height: calc(100vh - 102px);
+    overflow: hidden;
+}
+.elementor-5226058 .elementor-element.elementor-element-1c3d6a2 img{
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+}/* End custom CSS */
+
+
+
+
+
+/* Start custom CSS for container, class: .elementor-element-78a89c0 */.elementor-element-90f909e .elementor-button {
+  background-color: #FF9549;
+}
+.elementor-element-90f909e .elementor-button:hover {
+  background-color: #000;
+}/* End custom CSS */
+
