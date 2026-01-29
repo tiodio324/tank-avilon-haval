@@ -77,19 +77,7 @@
 /* Start custom CSS for html, class: .elementor-element-24463f2 */#map {
     min-height: 670px;
 }
-.ymaps-layers-pane {
-    filter: 
-        grayscale(100%)    /* Полное обесцвечивание */
-        invert(100%)       /* Инверсия цветов */
-        hue-rotate(180deg) /* Коррекция цветового тона */
-        contrast(90%);     /* Регулировка контраста */
-    
-    -webkit-filter: 
-        grayscale(100%) 
-        invert(100%) 
-        hue-rotate(180deg) 
-        contrast(90%);
-}/* End custom CSS */
+/* End custom CSS */
 
 
 

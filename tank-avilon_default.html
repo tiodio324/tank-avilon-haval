@@ -2468,26 +2468,13 @@ jQuery(document).ready(function($){
                     hintContent: 'Россия, Москва, Волгоградский проспект, 41к1',//Подсказка при наведении на маркер
                     balloonContent: 'Россия, Москва, Волгоградский проспект, 41к1'
                 }, {
-                    iconImageHref: '/wp-content/uploads/2025/07/pin.png',  // картинка иконки
+                    iconImageHref: 'wp-content/uploads/2025/07/pin.png',  // картинка иконки
                     iconImageSize: [54, 80],                                      // размеры картинки
                     iconImageOffset: [-27, -80]                                   // смещение картинки
                 });
 
             // Добавление метки на карту
             myMap.geoObjects.add(myPlacemark);
-
-            //Элементы управления
-            myMap.controls
-                // Кнопка изменения масштаба
-                .add('zoomControl')
-                // Список типов карты
-                .add('typeSelector')
-                // Кнопка изменения масштаба - справа
-                .add('smallZoomControl', { right: 5, top: 75 })
-                // Стандартный набор кнопок
-                .add('mapTools')
-                //Линейка масштаба
-                .add(new ymaps.control.ScaleLine());
         }
     
     </script>

@@ -121,10 +121,6 @@
 /* Start custom CSS for html, class: .elementor-element-e36f64e */.map {
   width: 100%;
   height: 700px;
-}
-.ymaps-layers-pane {
-  filter: grayscale(100%) invert(100%) hue-rotate(180deg) contrast(90%);
-  -webkit-filter: grayscale(100%) invert(100%) hue-rotate(180deg) contrast(90%);
 }/* End custom CSS */
 
 
