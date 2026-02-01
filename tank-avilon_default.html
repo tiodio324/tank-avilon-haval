@@ -2475,6 +2475,30 @@ jQuery(document).ready(function($){
 
             // Добавление метки на карту
             myMap.geoObjects.add(myPlacemark);
+            
+            // Применение темной темы для карты
+            applyDarkTheme();
+        }
+
+        function applyDarkTheme() {
+            const css = `
+                #map .ymaps-layers-pane,
+                #map .ymaps-ground-pane {
+                    filter: invert(1) hue-rotate(180deg) brightness(0.85) contrast(1.15) saturate(0.9) !important;
+                }
+                #map { 
+                    background-color: #111111 !important;
+                }
+                #map .ymaps-copyright {
+                    filter: invert(1) hue-rotate(180deg) !important;
+                    opacity: 0.7 !important;
+                }
+            `;
+
+            const style = document.createElement('style');
+            style.id = 'ymaps-dark-theme';
+            style.textContent = css;
+            document.head.appendChild(style);
         }
     
     </script>
